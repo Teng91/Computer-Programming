@@ -1,0 +1,9 @@
+Sci,9
+Social,4
+Med,5
+Engin,2
+Bio Agri. ,8
+Manage,6
+PH,2
+EE CS,1
+LS,3
