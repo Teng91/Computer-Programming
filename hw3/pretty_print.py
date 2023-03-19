@@ -1,0 +1,5 @@
+name = input('enter your name: ')
+a = (len(name)+12)
+print('#' * a)
+print('##### '+ name +' #####')
+print('#' * a)
